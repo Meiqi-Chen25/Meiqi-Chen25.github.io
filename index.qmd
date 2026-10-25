@@ -19,12 +19,6 @@ about:
     - icon: fingerprint
       text: ORCID
       href: .
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
     - icon: 📝
       text: CV
       href: docs/Meiqi_Chen_CV_EN_202610.pdf
